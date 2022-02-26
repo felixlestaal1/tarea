@@ -1,0 +1,39 @@
+body{
+	background-image: url(https://cdn.forbes.com.mx/2020/05/Videovigilancia-seguridad-768x432.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+
+}
+.formulario{
+	background: rgba(0,0,0,0.1);
+	padding: 20px;
+	border-radius: 10px;
+	box-shadow: 0 0 30px rgba(0,-0,-0,-0,568 ); 
+	color: #FFFFFF;
+}
+.form-control{
+	background: rgba(0,0,0, -.3);
+	border-style: none;
+	color: #4b5462;
+}
+
+
+.Ingresar{
+	background: #222A3F; 
+	padding: 10px;
+	font-size: 18px;
+	font-weight: 700! important;
+	transition: 0.5s ease-in;
+}
+input[value="Encriptar"]{ 
+	color: #FFFFFF;
+	font-weight: 700! important; 
+	font-size: 18px;
+	box-shadow: 0 0 30px rgba(0,-0,-0,-0,568 ); 
+	transition: 4s;
+}​
+
+.Encriptar:hover{
+	color: orange;
+}
